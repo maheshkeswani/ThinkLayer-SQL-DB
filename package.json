@@ -1,0 +1,18 @@
+{
+  "name": "thinklayer-sql-db",
+  "version": "1.0.0",
+  "description": "Assignment for Think layer",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test",
+    "dev" : "nodemon server"
+  },
+  "author": "Mahesh Keswani",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
